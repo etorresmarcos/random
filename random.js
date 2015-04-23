@@ -1,4 +1,5 @@
 //Math.random() devuelve número aleatorio entre 0 y 1 
+//Nombre random
 var numero = Math.random();
 
 if(numero <= 0.5){
